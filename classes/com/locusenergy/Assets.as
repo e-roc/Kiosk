@@ -1,0 +1,1 @@
+﻿package src.classes.com.locusenergy {		public class Assets {				// Constants:		// Public Properties:		public static var PVImage:Sprite;		public static var ProjectInformationImages:Array;		public static var EnvBenefitsImages:Array;		// Private Properties:			// Initialization:		public function Assets() { }			// Public Methods:		// Protected Methods:	}	}
