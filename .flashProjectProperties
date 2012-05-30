@@ -5,8 +5,8 @@
   <boundTemplate>file:///Macintosh HD/Users/Eric/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
   <classTemplate>file:///Macintosh HD/Users/Eric/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
   <classPath>.</classPath>
-  <defaultApp>file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/flas/LocusEnergyKiosk.fla</defaultApp>
-  <rootURI>file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/</rootURI>
+  <defaultApp>file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/flas/LocusEnergyKiosk.fla</defaultApp>
+  <rootURI>file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/</rootURI>
   <flexSDK/>
   <sources editable="false">
     <uri label="src">/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src</uri>
@@ -16,44 +16,24 @@
   <compileList editable="false">
     <uri label="LocusEnergyKiosk.fla">file:///Macintosh HD/Users/Eric/Dropbox/Locus/Kiosk/src/flas/LocusEnergyKiosk.fla</uri>
     <uri label="LocusEnergyKiosk.fla">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src_dev/flas/LocusEnergyKiosk.fla</uri>
+    <uri label="LocusEnergyKiosk.fla">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/flas/LocusEnergyKiosk.fla</uri>
   </compileList>
   <recentFiles editable="false">
-    <uri label="HowItWorksPanel.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/HowItWorksPanel.as</uri>
-    <uri label="Connector.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/Connector.as</uri>
-    <uri label="CurrentWeatherModule.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/modules/CurrentWeatherModule.as</uri>
-    <uri label="LocusEnergyKiosk.fla">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/flas/LocusEnergyKiosk.fla</uri>
-    <uri label="KioskMain.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/KioskMain.as</uri>
-    <uri label="DataPanel.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/DataPanel.as</uri>
-    <uri label="Grid.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/charts/Grid.as</uri>
-    <uri label="ChartGenerator.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/charts/ChartGenerator.as</uri>
-    <uri label="Panel.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/Panel.as</uri>
-    <uri label="LiveDataPanel.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/LiveDataPanel.as</uri>
-    <uri label="KioskMonitor.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/KioskMonitor.as</uri>
-    <uri label="CurrentGenerationPanel.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/CurrentGenerationPanel.as</uri>
-    <uri label="CurrentLoadPanel.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/CurrentLoadPanel.as</uri>
-    <uri label="NetMeterStatusModule.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/modules/NetMeterStatusModule.as</uri>
-    <uri label="NetMeterStatusPanel.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/NetMeterStatusPanel.as</uri>
-    <uri label="CurrentLoadGenPanel.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/CurrentLoadGenPanel.as</uri>
-    <uri label="HowItWorks.fla">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/flas/HowItWorks.fla</uri>
-    <uri label="KioskModule.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/modules/KioskModule.as</uri>
-    <uri label="OverviewModuleController.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/OverviewModuleController.as</uri>
-    <uri label="PanelToModule.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/modules/PanelToModule.as</uri>
-    <uri label="Conversion.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/charts/Conversion.as</uri>
-    <uri label="DateOffset.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/charts/DateOffset.as</uri>
-    <uri label="LineChartGenerator.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/charts/LineChartGenerator.as</uri>
-    <uri label="BarChartGenerator.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/charts/BarChartGenerator.as</uri>
-    <uri label="Menu.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/menus/Menu.as</uri>
-    <uri label="Menuitem.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/menus/Menuitem.as</uri>
-    <uri label="AssetLoader.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/AssetLoader.as</uri>
-    <uri label="AssetCache.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/AssetCache.as</uri>
-    <uri label="LoadAssetArray.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/LoadAssetArray.as</uri>
-    <uri label="Assets.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/Assets.as</uri>
-    <uri label="AssetManager.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/AssetManager.as</uri>
-    <uri label="ProjectInfoPanel.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/ProjectInfoPanel.as</uri>
-    <uri label="LoadAssets.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/LoadAssets.as</uri>
-    <uri label="InfoBubble.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/charts/InfoBubble.as</uri>
-    <uri label="MoneySavedModule.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/modules/MoneySavedModule.as</uri>
-    <uri label="EnvironmentalBenefitsModule.as">file:///Master/barrelimac4/Documents/Barrel/Eric/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/modules/EnvironmentalBenefitsModule.as</uri>
+    <uri label="HowItWorks.fla">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/flas/HowItWorks.fla</uri>
+    <uri label="KioskMain.as">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/KioskMain.as</uri>
+    <uri label="LocusEnergyKiosk.fla">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/flas/LocusEnergyKiosk.fla</uri>
+    <uri label="Connector.as">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/Connector.as</uri>
+    <uri label="Panel.as">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/Panel.as</uri>
+    <uri label="KioskMonitor.as">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/KioskMonitor.as</uri>
+    <uri label="CurrentLoadGenPanel.as">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/CurrentLoadGenPanel.as</uri>
+    <uri label="LiveDataPanel.as">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/LiveDataPanel.as</uri>
+    <uri label="DataPanel.as">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/DataPanel.as</uri>
+    <uri label="LiveDataConsVsProd.as">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/LiveDataConsVsProd.as</uri>
+    <uri label="OverviewModuleController.as">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/OverviewModuleController.as</uri>
+    <uri label="EnvironmentalBenefitsPanel.as">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/EnvironmentalBenefitsPanel.as</uri>
+    <uri label="DigitalMeter.as">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/meters/DigitalMeter.as</uri>
+    <uri label="CurrentGenerationPanel.as">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/CurrentGenerationPanel.as</uri>
+    <uri label="LiveDataGeneration.as">file:///Data/Users/eric/Documents/Dropbox/Locus/Kiosk/src/classes/com/locusenergy/panels/LiveDataGeneration.as</uri>
   </recentFiles>
   <locations editable="false"/>
 </projectDescription>
